@@ -4,7 +4,7 @@
 
 #### 每预测一次，就记录一个点。
 
-##### 最后我们得到了预测线。
+##### 最后我们得到了![预测线](http://www.forcastline.com)。
 
 ![预测图表](https://github.com/forcastline/forcastline/blob/master/PIC/BSV.png?raw=true)
 
