@@ -6,6 +6,6 @@
 
 ##### 最后我们得到了预测线。
 
-!(https://github.com/forcastline/forcastline/blob/master/PIC/BSV.png?raw=true)
+![预测图表](https://github.com/forcastline/forcastline/blob/master/PIC/BSV.png?raw=true)
 
 Boris Town
